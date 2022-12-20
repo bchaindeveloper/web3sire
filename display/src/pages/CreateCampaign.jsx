@@ -3,14 +3,14 @@ import { useNavigate } from 'react-router-dom';
 import { ethers } from 'ethers';
 
 import { useStateContext } from '../context';
-import { createCampaign, money } from '../assets';
+import { money } from '../assets';
 import { CustomButton, FormField } from '../components';
 import { checkIfImage } from '../utils';
 
 const CreateCampaign = () => {
   const navigate = useNavigate();
   const [isLoading, setIsLoading] = useState(false);
-  const { CreateCampaign } = useStateContext();
+  const { createCampaign } = useStateContext();
   const [form, setForm] = useState({
     name: '',
     title: '',
@@ -21,8 +21,8 @@ const CreateCampaign = () => {
   });
 
   const handleFormFieldChange = (fieldName, e) => {
-    setForm({ ...form, [fieldName]: e.target.value})
-  } 
+    setForm({ ...form, [fieldName]: e.target.value })
+  }
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -114,6 +114,5 @@ const CreateCampaign = () => {
     </div>
   )
 }
-
 
 export default CreateCampaign
