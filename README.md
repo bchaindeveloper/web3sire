@@ -1,15 +1,16 @@
 # Web3 Crowd Funding Application
 
 This is a portfolio project showing experience with soidity and UX/UI development.
+### Still Being Developed
 
 ## Screenshots
 ![Screenshot](display/Images/web3sire.png)
 
 
 ## Built with:
-Vite
-Thirdweb
-Solidity
+Vite,
+Thirdweb,
+Solidity,
 Ethers
 
 ## How to use?
