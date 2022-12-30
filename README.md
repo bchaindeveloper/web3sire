@@ -4,7 +4,7 @@
 
 This is a portfolio project showing experience with soidity and UX/UI development.
 
-## Screenshots
+## Screenshots:
 ![Screenshot](display/Images/web3sire.png)
 
 
@@ -14,14 +14,15 @@ Thirdweb,
 Solidity,
 Ethers
 
-## How to use?
+## How to use:
 
 ```bash
 cd display
 yarn run dev
 ```
 
-## Contribute
+## Contribute:
+
 Feel free to a fork the repo or notify me of any issues that are present
 
 ## Credit:
@@ -29,6 +30,6 @@ Feel free to a fork the repo or notify me of any issues that are present
 JavascriptMastery's tutorial helped me create this project:
 https://www.youtube.com/watch?v=BDCT6TYLYdI&t=468s
 
-## License
+## License:
 
 MIT © BChainDev
