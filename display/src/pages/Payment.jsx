@@ -17,7 +17,7 @@ const Payment = () => {
 
   return (
     <div>
-        <h1 className='text-white'>Payment Page: Coming Soon...</h1>
+        <h1 className='text-white'>Payment Page: Coming Soon</h1>
     </div>
   )
 }

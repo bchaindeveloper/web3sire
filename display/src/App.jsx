@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-import { Sidebar, Navbar } from './components';
+import { Sidebar, Navbar, Footer } from './components';
 import { CampaignDetails, CreateCampaign, Home, Profile, Withdraw, Payment, About } from './pages';
 
 const App = () => {
@@ -23,6 +23,7 @@ const App = () => {
           <Route path="/Withdraw" element={<Withdraw />} />
           <Route path="/About" element={<About />} />
         </Routes>
+        <Footer />
       </div>
     </div>
   )
