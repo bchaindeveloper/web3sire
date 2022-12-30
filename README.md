@@ -6,6 +6,7 @@ This is a portfolio project showing experience with soidity and UX/UI developmen
 <img src="web3sire.png"
      alt="screenshot"
      style="float: left; margin-right: 10px;" />
+![web3](web3sire.png "Web3sire")
 
 ## Built with:
 Vite
