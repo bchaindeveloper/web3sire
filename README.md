@@ -2,7 +2,7 @@
 
 ### Still Being Developed...
 
-This is a portfolio project showing experience with soidity and UX/UI development.
+This is a portfolio project showing experience with Soidity and UX/UI development.
 
 ## Screenshots:
 ![Screenshot](display/Images/web3sire.png)
