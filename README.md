@@ -1,7 +1,7 @@
 # Web3 Crowd Funding Application
 
 ### Still Being Developed...
-
+ 
 This is a portfolio project showing experience with Soidity and UX/UI development.
 
 ## Screenshots:
